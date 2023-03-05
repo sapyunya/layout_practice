@@ -1,0 +1,42 @@
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 17px 0 ;
+}
+
+.list {
+    display: flex;
+    gap: 0 25px;
+}
+
+.link {
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600px;
+}
+
+
+.btn-item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 19px 10px 14px;
+    color: white;
+    font-weight: bold;
+}
+
+.img {
+    margin-right: 12px;
+}
+
+.btn-item-left {
+    background-color: #EF7F04;
+}
+
+.btn-item-right {
+    background-color: #3B3A63;
+}
+

@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Roboto";
+    src: url (fonts/Roboto-bold);
+}
+
+body {
+    font-family: Roboto-bold, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
